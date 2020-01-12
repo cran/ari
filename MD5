@@ -1,12 +1,12 @@
-773016d1d9d83e702e36e5f9e16639a9 *DESCRIPTION
+98b5c1756ecb8cc9e778ad0d308a992c *DESCRIPTION
 45ffb6126c9f84a5c529337a35b15ce8 *LICENSE
 0903cea816acce0803bb220f29087cae *NAMESPACE
-a888dddfd9127383756bd5ed51378848 *NEWS.md
+382226b16823e2b8b112084c87faad02 *NEWS.md
 33c29bd0dd9544008d779b328ac1432c *R/ari_burn_subtitles.R
 32d8d12f3163211116ccef6146aac361 *R/ari_example.R
 622df03c4a6b6d621231e35f122f25b9 *R/ari_narrate.R
 6f4179d5107847fb31b9e124275356b1 *R/ari_spin.R
-d242dae78e97e73d04b3555e4f20bfd0 *R/ari_stitch.R
+b2cfc789352e4b07095c6ce93747d0b0 *R/ari_stitch.R
 45e74ee1a2a68bb637989ab4ead87113 *R/ari_subtitles.R
 9f61bde6b7321af1b2a8d8bd8579bfac *R/ari_talk.R
 ab2051913970c14dcfc1ccb9e285ec6a *R/ffmpeg_codecs.R
@@ -14,6 +14,10 @@ ab2051913970c14dcfc1ccb9e285ec6a *R/ffmpeg_codecs.R
 df7ae601c42f2fd258cb975499cf7695 *R/set_encoders.R
 e99a0a1810fd84d72a049b74920e66be *R/utilities.R
 1953a1c60f9ac2c914bc8508a6b34124 *README.md
+7f83c42aac703ec46955548dabb18b5a *build/vignette.rds
+3c9e2d06e8560272e30c98b0c827478b *inst/doc/Simple-Ari-Configuration-with-Docker.R
+7a39ba13e0e0f6a2aaa2f53e5ecef642 *inst/doc/Simple-Ari-Configuration-with-Docker.Rmd
+369fcb57ff6f0b802ec2ce582e7fad98 *inst/doc/Simple-Ari-Configuration-with-Docker.html
 a9794ce47b845753fba5704112d442af *inst/test/ari_comments.Rmd
 19f45d1f8b781f4df9e275870825c066 *inst/test/ari_intro.Rmd
 cb0716759e5b294fe56f806296ec75e3 *inst/test/ari_intro.html
@@ -24,7 +28,7 @@ d9d75475f5fbda6c4a99e5a86c7e0880 *inst/test/mab1.png
 15e8d86c7f954a1327c0427a33feead8 *man/ari_example.Rd
 15ae6b96be04805c05b305a2663154b4 *man/ari_narrate.Rd
 76b100287ec4163f78606460a46b5bec *man/ari_spin.Rd
-93705b941f32776913598f75372126dc *man/ari_stitch.Rd
+82390992cbb137066b826c9b9b8b74af *man/ari_stitch.Rd
 6c327fcd69f5745070959d8f67b6003b *man/ari_talk.Rd
 db0d8990f11c17285d0176d88e41049c *man/codecs.Rd
 17ae21e15ce662a113e6d719ef7bff50 *man/ffmpeg_codecs.Rd
@@ -34,3 +38,4 @@ f07655046a467dccaf401805ffdeaa82 *tests/testthat.R
 d5abc6b0690a9119090982425c598a45 *tests/testthat/test_ari_spin.R
 816e8d68a58b1b6b005bb2bc72a54444 *tests/testthat/test_ari_stitch.R
 abe71519ec2e2345542f915638dc364d *tests/testthat/test_parse_html_comments.R
+7a39ba13e0e0f6a2aaa2f53e5ecef642 *vignettes/Simple-Ari-Configuration-with-Docker.Rmd
