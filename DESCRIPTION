@@ -1,7 +1,7 @@
 Package: ari
 Type: Package
 Title: Automated R Instructor
-Version: 0.3.3
+Version: 0.3.4
 Authors@R: c(
     person("Sean", "Kross", email = "sean@seankross.com", role = c("aut", "cre")),
     person("John", "Muschelli", role = "ctb")
@@ -14,7 +14,7 @@ Description: Create videos from 'R Markdown' documents, or images and audio
     <https://aws.amazon.com/polly/> for more information.
 SystemRequirements: ffmpeg (>= 3.2.4)
 Depends: R (>= 3.1.0)
-Imports: text2speech (>= 0.2.4), tuneR, webshot, purrr, rmarkdown,
+Imports: text2speech (>= 0.2.8), tuneR, webshot, purrr, rmarkdown,
         xml2, rvest, tools, progress, hms
 Suggests: testthat, grDevices, xaringan, aws.signature, aws.polly,
         knitr
@@ -23,12 +23,12 @@ URL: http://github.com/seankross/ari
 BugReports: http://github.com/seankross/ari/issues
 Encoding: UTF-8
 LazyData: true
-RoxygenNote: 6.1.1
+RoxygenNote: 7.0.2
 VignetteBuilder: knitr
 NeedsCompilation: no
-Packaged: 2020-01-12 21:18:00 UTC; sean
+Packaged: 2020-01-27 21:44:52 UTC; sean
 Author: Sean Kross [aut, cre],
   John Muschelli [ctb]
 Maintainer: Sean Kross <sean@seankross.com>
 Repository: CRAN
-Date/Publication: 2020-01-12 21:40:02 UTC
+Date/Publication: 2020-01-27 23:00:07 UTC
