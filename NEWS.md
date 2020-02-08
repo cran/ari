@@ -1,3 +1,7 @@
+# ari 0.3.5
+
+- Removed `have_polly()`.
+
 # ari 0.3.4
 
 - Removed strict dependency on aws.polly and associated Cloudyr projects because
